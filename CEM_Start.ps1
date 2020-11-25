@@ -16,7 +16,7 @@ write-host "####################################################################
 #
 [Int]$selection = 0
 $varCEMURL="https://api.cem.cyberark.com"
-$varCEMOrg = "cybr-eu-se-dach" ## Put in your Org-Name here
+$varCEMOrg = "cybr-dach" ## Put in your Org-Name here
 $varCEMAccessKey = "" ## Put in your CEM API Key here
 
 #
