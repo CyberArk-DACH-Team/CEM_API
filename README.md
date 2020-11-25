@@ -11,7 +11,7 @@ Please note These scripts were made available as examples to show administrators
 - API Access Key to logon to the CEM instance
 
 # Scripts
-CEM_Start.ps1
+> CEM_Start.ps1
 - Use the start script which navigates through all other functionalities
 > CEM_REST_API_Get_Accounts.ps1
 - Lists connected platforms
